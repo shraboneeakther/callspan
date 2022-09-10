@@ -5,7 +5,10 @@
 h1{
     background-color: peru;
     display: inline-block;
-    padding: 22px 290px;
+    padding: 20px 0px;
+    width: 60%;
+    text-align: center;
+    
 }
 tbody{
     background-color: azure;
